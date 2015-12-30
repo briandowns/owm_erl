@@ -1,0 +1,2 @@
+-module(owm_erl_test).
+-compile(export_all).
